@@ -13,8 +13,3 @@ func _ready():
 
 
 
-func _process(delta):
-	if contador <= 10:
-		print (contador)
-		contador += 1
-	pass
