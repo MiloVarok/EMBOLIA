@@ -13,7 +13,9 @@ func _ready():
 
 
 
+
 func _process(delta):
 	print("Hola, ya edité el archivo. Tkm")
 	
 	pass
+
