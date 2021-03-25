@@ -14,7 +14,6 @@ func _ready():
 
 
 func _process(delta):
-	if contador <= 10:
-		print (contador)
-		contador += 1
+	print("Hola, ya edité el archivo. Tkm")
+	
 	pass
